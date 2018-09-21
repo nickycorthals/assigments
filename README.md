@@ -8,3 +8,5 @@ this repository contains my assigments
 [Grades_assignment2.ipynb] (https://github.com/nickycorthals/assigments/blob/master/Graded_assignment_2.ipynb)
 [Exam_student.ipynb] (https://github.com/nickycorthals/assigments/blob/master/Exam_student.ipynb)
 [exam_june_7_2018.ipynb] (https://github.com/nickycorthals/assigments/blob/master/exam_june_7_2018.ipynb)
+[exam_Sep_21_2018.ipynb] (https://github.com/nickycorthals/assigments/blob/master/exam_Sep_21_2018.ipynb)
+[exam_2_student.ipynb] (https://github.com/nickycorthals/assigments/blob/master/exam_2_student.ipynb)
